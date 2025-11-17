@@ -1,0 +1,34 @@
+{
+  "name": "javascript_cfb_cursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula01.js",
+  "scripts": {
+    "start": "node Aulas/aula01.js",
+    "aula": "node Aulas/aula01.js",
+    "var": "node \"1 - Variáveis/exercicio01.js\"",
+    "if": "node \"2 - Condicionais/1 - IF/exercicio01.js\"",
+    "else": "node \"2 - Condicionais/2 - IF_ELSE/exercicio01.js\"",
+    "elseif": "node \"2 - Condicionais/3 - ELSE_IF/exercicio01.js\"",
+    "switch": "node \"2 - Condicionais/4 - SWITCH/exercicio01.js\"",
+    "for": "node \"3 - Repetição/1 - FOR/exercicio01.js\"",
+    "while": "node \"3 - Repetição/2 - WHILE/exercicio01.js\"",
+    "func": "node \"4 - Funções/exercicio01.js\"",
+    "array": "node \"5 - Estruturas_de_Dados/1 - Arrays/exercicio01.js\"",
+    "obj": "node \"5 - Estruturas_de_Dados/2 - Objetos/exercicio01.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FELIPE-NOBREGA06/Javascript_CFB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FELIPE-NOBREGA06/Javascript_CFB/issues"
+  },
+  "homepage": "https://github.com/FELIPE-NOBREGA06/Javascript_CFB#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
