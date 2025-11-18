@@ -3,3 +3,9 @@
 
 let quantidade = 5;
 // Seu código aqui:
+
+if (quantidade > 0) {
+  console.log("Compra liberada");
+} else {
+  console.log("Estoque indisponivel ");
+}
